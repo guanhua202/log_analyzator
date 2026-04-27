@@ -1,5 +1,3 @@
-# Beta v0.2
-
 from time import sleep
 
 requests = []
