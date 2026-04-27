@@ -12,6 +12,11 @@
 #### Improvements and additional changes:
   - ✅ Added the ability to filter activity by IP address
   - ✅ Minor changes and refactoring
+#
+### Beta v0.3
+#### Improvements and additional changes:
+  - ✅ Added the ability to display TOP pages based on queries
+  - ✅ Code structuring and refactoring
 ------------------------------------------------------------
 
 # Примечания к выпуску (RU 🇷🇺)
@@ -28,3 +33,8 @@
 #### Улучшения и дополнительные изменения:
   - ✅ Добавлена возможность фильтрации активности по IP-адресу
   - ✅ Незначительные изменения и рефакторинг
+#
+### Бета v0.3
+#### Улучшения и дополнительные изменения:
+  - ✅ Добавлена возможность вывода ТОП-страниц по запросам
+  - ✅ Структурированние и рефакторинг кода
